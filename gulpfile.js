@@ -1,5 +1,4 @@
 (function() {
-
   'use strict';
 
   const gulp = require('gulp');
@@ -10,6 +9,5 @@
     require('./build/' + file);
   });
 
-  gulp.task("default", gulp.series(["clean", "scripts"]));
-
-}());
+  gulp.task('default', gulp.series(['clean', 'scripts']));
+})();
