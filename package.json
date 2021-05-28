@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-const-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standard colors list.",
   "homepage": "https://github.com/afeiship/next-const-colors",
   "author": {
@@ -40,5 +40,10 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "const",
+    "colors"
+  ]
 }
