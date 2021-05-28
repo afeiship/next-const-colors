@@ -15,7 +15,11 @@ npm install -S @jswork/next-const-colors
 ```js
 import '@jswork/next-const-colors';
 
-//DOCS here!
+// a list of colors
+[
+  '#7B0600', '#9E4000', '#916400', '#28547C', '#01007E', '#561F4E', '#3C3C3C', '#004FC0',
+  // ...
+]
 ```
 
 ## license
